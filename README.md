@@ -37,3 +37,4 @@ O Habits é um app para ajudar a rastrear os hábitos.
 - [Acesse o projeto finalizado, online](https://pablodpaula1.github.io/DevLinks/)
 
 ## :memo: Licença
+Esse projeto está sob a licença MIT.
